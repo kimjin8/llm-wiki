@@ -21,7 +21,7 @@ Co-founder and CEO of Acme Corp; angel investor in early-stage developer tools.
 - Met at the Acme intro call, introduced by a mutual founder friend (source: raw/processed/Meeting Log/2026-01-15 Acme Intro Call.md)
 
 ## Relationships
-- Angel investor in [[fundraising-seed]] · knows [[john-smith]] from their prior company
+- Angel investor in [[fundraising-seed]] · knows [[John Smith]] from their prior company
 
 ## Notes
 - Writes $25-50K angel checks, prefers to decide after a working demo, not a deck (source: raw/processed/Meeting Log/2026-01-15 Acme Intro Call.md)
